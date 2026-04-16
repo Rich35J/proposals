@@ -157,3 +157,7 @@ Active development. Layers 1 through 4 complete. Multi-user support complete.
 **Dependencies:** None beyond Python standard library
 **Platform:** Windows / Linux / macOS
 
+---
+
+*Built by Rich*
+
