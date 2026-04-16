@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# User profiles and session data
+users/
+user_profile.json
+baseline_hashes.json
+
+# Logs
+logs/
+
+# Config with personal paths (user should create their own)
+# config.json is included as a template
