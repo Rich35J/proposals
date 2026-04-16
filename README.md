@@ -157,7 +157,3 @@ Active development. Layers 1 through 4 complete. Multi-user support complete.
 **Dependencies:** None beyond Python standard library
 **Platform:** Windows / Linux / macOS
 
----
-
-*Built by Jeremy Lee Richardson "Rich" - NSA Apprentice Exploitation Analyst, Army Special Operations Staff Sergeant, Anthropic Fellows Program Applicant*
-*NSA Pre-Publication Review Case Number: RES-2025-14693*
