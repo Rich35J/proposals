@@ -1,0 +1,30 @@
+{
+  "experience_level": "beginner",
+  "sessions": 6,
+  "total_alerts": 10,
+  "explanation_requests": {
+    "full": 3,
+    "partial": 3,
+    "skipped": 4
+  },
+  "response_times": [
+    12.4,
+    8.1,
+    15.2,
+    5.0,
+    9.3,
+    7.8,
+    11.0,
+    6.5,
+    14.2,
+    4.1
+  ],
+  "decisions": {
+    "investigated": 7,
+    "fix_it": 0,
+    "allow_without_review": 2,
+    "block_without_review": 1
+  },
+  "growth_moments": [],
+  "last_updated": "2026-04-15T19:37:04.661270"
+}

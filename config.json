@@ -1,0 +1,42 @@
+{
+  "project_name": "Interpolbility",
+  "version": "1.0.0",
+  "allowed_directories": [
+    "D:/Interpolbility"
+  ],
+  "protected_directories": [
+    "C:/Users",
+    "C:/Windows",
+    "C:/Program Files",
+    "C:/Program Files (x86)",
+    "D:/EMPLOYMENT OPS"
+  ],
+  "protected_files": [
+    ".ssh/known_hosts",
+    ".ssh/authorized_keys",
+    ".ssh/config",
+    ".env",
+    "config.json"
+  ],
+  "protected_extensions": [
+    ".pem",
+    ".key",
+    ".ppk",
+    ".pfx",
+    ".p12"
+  ],
+  "startup": {
+    "home_directory": "D:/Interpolbility",
+    "log_file": "D:/Interpolbility/logs/interpolbility.log",
+    "profile_file": "D:/Interpolbility/user_profile.json",
+    "baseline_hashes_file": "D:/Interpolbility/baseline_hashes.json"
+  },
+  "user_profile": {
+    "experience_level": "experienced",
+    "verbose_mode": false,
+    "response_times": [],
+    "prompt_lengths": [],
+    "sessions": 4
+  },
+  "active_user": "Bob"
+}
